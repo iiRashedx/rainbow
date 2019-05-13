@@ -1,1 +1,1 @@
-worker: node cj.js
+worker: node rainbow.js
