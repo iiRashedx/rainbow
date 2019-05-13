@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "main": "rainbow.js",
   "scripts": {
-    "start": "node cj.js"
+    "start": "node rainbow.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
