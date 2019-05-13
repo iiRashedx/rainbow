@@ -1,10 +1,10 @@
 {
-  "name": "cj",
+  "name": "rainbow",
   "description": "Test",
   "version": "0.0.0",
   "main": "rainbow.js",
   "scripts": {
-    "start": "node rainbow.js"
+  "start": "node rainbow.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
